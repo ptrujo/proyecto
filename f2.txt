@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 fichero f2 modificado en func13 y luego en func14
+=======
+fichero f2 modificado en func13
+>>>>>>> func13
